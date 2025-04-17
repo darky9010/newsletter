@@ -1,4 +1,4 @@
-<?php namespace Acme\Newsletter;
+<?php namespace MMSocietàServiziSA\Newsletter;
 
 use System\Classes\PluginBase;
 
@@ -9,7 +9,7 @@ class Plugin extends PluginBase
         return [
             'name'        => 'Newsletter',
             'description' => 'Plugin per invio newsletter e gestione iscrizioni.',
-            'author'      => 'Acme',
+            'author'      => 'MMSocietàServiziSA',
             'icon'        => 'icon-envelope'
         ];
     }
@@ -17,7 +17,7 @@ class Plugin extends PluginBase
     public function registerComponents()
     {
         return [
-            'Acme\Newsletter\Components\SubscribeForm' => 'subscribeForm',
+            'MMSocietàServiziSA\Newsletter\Components\SubscribeForm' => 'subscribeForm',
         ];
     }
 }
