@@ -1,5 +1,5 @@
 {
-    "name": "acme/newsletter-plugin",
+    "name": "MMSocietàServiziSA/newsletter-plugin",
     "type": "october-plugin",
     "description": "No description provided yet...",
     "require": {
