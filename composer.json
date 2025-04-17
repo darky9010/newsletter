@@ -1,5 +1,5 @@
 {
-    "name": "acme/acme.newsletter",
+    "name": "acme/newsletter-plugin",
     "type": "october-plugin",
     "description": "No description provided yet...",
     "require": {
