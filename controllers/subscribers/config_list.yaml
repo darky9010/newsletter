@@ -1,0 +1,4 @@
+list:
+    columns:
+        email:
+            label: Email
