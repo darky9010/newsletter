@@ -1,0 +1,6 @@
+plugin:
+    name: 'sesmo.interactivemap::lang.plugin.name'
+    description: 'sesmo.interactivemap::lang.plugin.description'
+    author: 'Sesmo SA'
+    icon: oc-icon-sun-o
+    homepage: 'http://www.sesmo.ch'
